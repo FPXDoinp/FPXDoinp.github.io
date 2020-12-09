@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>学习markdown语法</title>
+      <link href="2020/12/09/markdown%E8%AF%AD%E6%B3%95/"/>
+      <url>2020/12/09/markdown%E8%AF%AD%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Markdown-标题"><a href="#Markdown-标题" class="headerlink" title="Markdown 标题"></a>Markdown 标题</h1><pre><code># 一级标题## 二级标题### 三级标题#### 四级标题##### 五级标题###### 六级标题</code></pre><h1 id="Markdown-段落"><a href="#Markdown-段落" class="headerlink" title="Markdown 段落"></a>Markdown 段落</h1><pre><code>*斜体文本*_斜体文本_**粗体文本**__粗体文本__***粗斜体文本***___粗斜体文本___</code></pre><h2 id="分隔线"><a href="#分隔线" class="headerlink" title="分隔线"></a>分隔线</h2><pre><code>**** * ******- - -----------</code></pre><h2 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h2><pre><code>RUNOOB.COMGOOGLE.COM~~BAIDU.COM~~</code></pre><h2 id="下划线"><a href="#下划线" class="headerlink" title="下划线"></a>下划线</h2><pre><code>&lt;u&gt;带下划线文本&lt;/u&gt;</code></pre><h2 id="脚注"><a href="#脚注" class="headerlink" title="脚注"></a>脚注</h2><pre><code>[^要注明的文本]</code></pre><h1 id="Markdown-列表"><a href="#Markdown-列表" class="headerlink" title="Markdown 列表"></a>Markdown 列表</h1><pre><code>* 第一项* 第二项* 第三项+ 第一项+ 第二项+ 第三项- 第一项- 第二项- 第三项</code></pre><pre><code>1. 第一项：    - 第一项嵌套的第一个元素    - 第一项嵌套的第二个元素2. 第二项：    - 第二项嵌套的第一个元素    - 第二项嵌套的第二个元素</code></pre><h1 id="Markdown-区块"><a href="#Markdown-区块" class="headerlink" title="Markdown 区块"></a>Markdown 区块</h1><pre><code>&gt; 最外层&gt; &gt; 第一层嵌套&gt; &gt; &gt; 第二层嵌套</code></pre><pre><code>&gt; 区块中使用列表&gt; 1. 第一项&gt; 2. 第二项&gt; + 第一项&gt; + 第二项&gt; + 第三项</code></pre><h1 id="Markdown-代码"><a href="#Markdown-代码" class="headerlink" title="Markdown 代码"></a>Markdown 代码</h1><pre><code>`printf()` 函数</code></pre><h1 id="Markdown-链接"><a href="#Markdown-链接" class="headerlink" title="Markdown 链接"></a>Markdown 链接</h1><pre><code>[链接名称](链接地址)或者&lt;链接地址&gt;</code></pre><h1 id="Markdown-图片"><a href="#Markdown-图片" class="headerlink" title="Markdown 图片"></a>Markdown 图片</h1><pre><code>![alt 属性文本](图片地址)![alt 属性文本](图片地址 &quot;可选标题&quot;)</code></pre><h1 id="Markdown-表格"><a href="#Markdown-表格" class="headerlink" title="Markdown 表格"></a>Markdown 表格</h1><pre><code>|  表头   | 表头  ||  ----  | ----  || 单元格  | 单元格 || 单元格  | 单元格 |</code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> learn </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>良心网站推荐</title>
+      <link href="2020/12/09/%E8%89%AF%E5%BF%83%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
+      <url>2020/12/09/%E8%89%AF%E5%BF%83%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</url>
+      
+        <content type="html"><![CDATA[<ul><li><p><a href="https://www.alltoall.net/">在线万能格式转换 Word转pdf等</a></p></li><li><p><a href="https://www.qifeiye.com/">小白自主搭建网站</a></p></li><li><p><a href="https://www.deepl.com/translator">万能在线文档高端翻译</a></p></li><li><p><a href="www.1ppt.com">免费PPT模板下载</a></p></li><li><p><a href="https://www.windy.com/">全国天气网站</a></p></li><li><p><a href="https://window-swap.com/">开窗户</a></p></li><li><p><a href="http://bzdt.ch.mnr.gov.cn/index.html">标准地图</a></p></li><li><p><a href="https://www.ghostoact.com/">英雄联盟皮肤原画下载</a></p></li><li><p><a href="http://m.1kmn.com/">音乐免费下载</a></p></li><li><p><a href="https://www.msdmanuals.com/">默沙东诊疗手册</a></p></li><li><p><a href="https://github.com/">程序员必备网站</a></p></li><li><p><a href="https://www.cn-ki.net/">论文下载网站</a></p></li><li><p><a href="http://web.airdroid.com/">在线录屏投屏</a></p></li><li><p><a href="https://www.addog.vip/">网站导航</a></p><h2 id="陆续更新中…"><a href="#陆续更新中…" class="headerlink" title="陆续更新中…"></a>陆续更新中…</h2></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何搭建个人博客网站</title>
       <link href="2020/12/09/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/"/>
       <url>2020/12/09/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/</url>
